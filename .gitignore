@@ -1,0 +1,9 @@
+#files
+SajjadSH.iml
+src/main/webapp/i23.jsp
+
+#directories
+.idea
+src/test
+target
+src/main/webapp/resources/video
